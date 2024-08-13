@@ -2,8 +2,8 @@
 
 Este repositório contém 2 bases de dados de DNA para testa o seu DNAProfiler:
 
-- **small:** base pequena contendo 3 indíviduos e 3 STRs de comprimento fixo
-- **large:** base grande contendo 23 indivíduos e 8 STRs de comprimento diverso
+- **data/small/database.csv:** base pequena contendo 3 indíviduos e 3 STRs de comprimento fixo
+- **data/large/database.csv:** base grande contendo 23 indivíduos e 8 STRs de comprimento diverso
 
 ## Repostas:
 ```
