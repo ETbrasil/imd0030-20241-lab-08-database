@@ -1,7 +1,7 @@
-Rode seu programa: ./dnaprofiler -d data/small/database.csv -s data/large/1.txt. Sua saída deve ser: Bob.
-Rode seu programa: ./dnaprofiler -d data/small/database.csv -s data/large/2.txt. Sua saída deve ser: No match.
-Rode seu programa: ./dnaprofiler -d data/small/database.csv -s data/large/3.txt. Sua saída deve ser: No match.
-Rode seu programa: ./dnaprofiler -d data/small/database.csv -s data/large/4.txt. Sua saída deve ser: Alice.
+Rode seu programa: ./dnaprofiler -d data/small/database.csv -s data/small/1.txt. Sua saída deve ser: Bob.
+Rode seu programa: ./dnaprofiler -d data/small/database.csv -s data/small/2.txt. Sua saída deve ser: No match.
+Rode seu programa: ./dnaprofiler -d data/small/database.csv -s data/small/3.txt. Sua saída deve ser: No match.
+Rode seu programa: ./dnaprofiler -d data/small/database.csv -s data/small/4.txt. Sua saída deve ser: Alice.
 Rode seu programa: ./dnaprofiler -d data/large/database.csv -s data/large/5.txt. Sua saída deve ser: Lavender.
 Rode seu programa: ./dnaprofiler -d data/large/database.csv -s data/large/6.txt. Sua saída deve ser: Luna.
 Rode seu programa: ./dnaprofiler -d data/large/database.csv -s data/large/7.txt. Sua saída deve ser: Ron.
